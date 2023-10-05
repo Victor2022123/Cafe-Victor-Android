@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">CafeVictor</string>
+    <!--    Fragmento Inicio-->
+    <string name="inicio_titulo">Cafe Victor</string>
+    <string name="inicio_descrip">
+        Gran café hecho simple. Empieza tus mañanas con los mejores cafés del mundo. Pruebe nuestros cafés artesanales curados por expertos de nuestros mejores tostadores entregados directamente en su puerta, a su horario.</string>
+    <string name="btn_home">Suscripción</string>
+    <string name="inicio_img_descrip">Imagen Inicio</string>
+    <!--    Fragmento Menu-->
+    <string name="cole_titulo">Cafe  destacados de nuestro menú</string>
+    <string name="cole_uno">Cafe Danche</string>
+    <string name="cole_dos">Cafe Gran Espresso</string>
+    <string name="cole_tres">Cafe Picollo</string>
+    <string name="btn_cole">+ Suscripcion</string>
+    <string name="coleccion_img_descrip_uno">Imagen Menu Uno</string>
+    <string name="coleccion_img_descrip_dos">Imagen Menu Dos</string>
+    <string name="coleccion_img_descrip_tres">Imagen Menu Tres</string>
+
+
 </resources>
